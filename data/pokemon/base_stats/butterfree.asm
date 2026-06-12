@@ -1,6 +1,6 @@
 	db BUTTERFREE ; 012
 
-	db  79, 64,  69,  90,  109,  99
+	db  79,  64,  69,  90, 109,  99
 	;   hp  atk  def  spd  sat  sdf
 
 	db BUG, FLYING ; type
