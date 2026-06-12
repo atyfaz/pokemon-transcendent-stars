@@ -1,6 +1,6 @@
 	db PIKACHU ; 025
 
-	db  35,  55,  30,  90,  50,  40
+	db  45,  80,  50,  120,  75,  60
 	;   hp  atk  def  spd  sat  sdf
 
 	db ELECTRIC, ELECTRIC ; type
